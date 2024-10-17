@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.497dcb9e.css",
+    "main.js": "/static/js/main.37502f7b.js",
+    "static/js/453.5489d0d0.chunk.js": "/static/js/453.5489d0d0.chunk.js",
+    "static/media/placeholder3.jpg": "/static/media/placeholder3.dbb0f7901a8d07a3dd01.jpg",
+    "static/media/placeholder5.jpg": "/static/media/placeholder5.28e7a27c2d6f279ccf17.jpg",
+    "static/media/Sina.jpg": "/static/media/Sina.5ecfcebeaaf3f523bebf.jpg",
+    "static/media/placeholder4.jpg": "/static/media/placeholder4.e8a917267ff25deab435.jpg",
+    "static/media/placeholder1.jpg": "/static/media/placeholder1.905ccbe2bed77dec67c3.jpg",
+    "static/media/uoe-logo.png": "/static/media/uoe-logo.c21591fcad18f07bfd9e.png",
+    "static/media/placeholder2.jpg": "/static/media/placeholder2.02b964f0b394bd5a0501.jpg",
+    "static/media/martina.jpg": "/static/media/martina.91ecb8b506e00d2d8f9e.jpg",
+    "index.html": "/index.html",
+    "main.497dcb9e.css.map": "/static/css/main.497dcb9e.css.map",
+    "main.37502f7b.js.map": "/static/js/main.37502f7b.js.map",
+    "453.5489d0d0.chunk.js.map": "/static/js/453.5489d0d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497dcb9e.css",
+    "static/js/main.37502f7b.js"
+  ]
+}
